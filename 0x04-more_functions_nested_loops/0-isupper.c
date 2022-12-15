@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * _isupper - returns 1 if uppercase alphabet and 0 otherwise
